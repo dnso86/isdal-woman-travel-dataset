@@ -1,3 +1,5 @@
+> For some context, please read the article "[Isdal Woman: Connecting the Scattered Dots](https://medium.com/@od8086/isdal-woman-connecting-the-scattered-dots-4df14cb0995b)"! :smiley:
+
 # Isdal Woman Travel dataset
 
 This script generates a SQLite database containing place names, geolocation and airport / train station information - to facilitate analysis on the notes of the "Isdal woman". You can read more about the case of the Isdal Woman [here](https://www.nrk.no/dokumentar/do-you-remember-this-woman_-1.13215629).
